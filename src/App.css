@@ -1,0 +1,18 @@
+.background {
+width: 100vw;
+height: 90vh
+}
+big{
+  display: initial
+  
+}
+small{
+  display: none;
+}
+
+body{
+  background-image: url('./background.png');
+  /* background-size: cover; */
+  height: 90vh;
+  width: 100vw;
+}
